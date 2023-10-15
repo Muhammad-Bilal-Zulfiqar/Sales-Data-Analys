@@ -44,7 +44,5 @@ The following packages are required to run the code:
 
 Contributions to this project are welcome. Feel free to open issues and submit pull requests for any improvements or additional features.
 
-## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
